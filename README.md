@@ -4,6 +4,15 @@
 * zsh
 * fontconfig (infinality, .XML)
 * .Xdefaults
+* .XResources
+* .fonts.conf
+* .vimrc
+
+### Changelog : July 12, 2016
+* .XResources: migration to Base-16 color scheme.  Current one in use is Ocean / Ocean Dark
+* .Xdefaults: New addition: Ubuntu Mono font for urxvt/xsession.
+* .i3/config: Updated for new colors (Base-16) and new font: Ubuntu Mono
+* .i3status.conf: Updated bar for new colors (Base-16) and new font: Unbutu Mono
 
 ### Login greeter (/etc/issue)
 * /etc/issue color debian logo
