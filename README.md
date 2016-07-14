@@ -1,3 +1,6 @@
+![Debian Jessie](desktop.png)
+
+
 ## Debian dotfiles and install
 * irssi
 * hexchat
